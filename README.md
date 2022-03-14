@@ -15,3 +15,5 @@ Exercise five: for loops on paper
 Exercise six: Converting a while loop into a for loop
 
 Exercise seven: Guessing game using a while loop
+
+Exercise eight: Repetition code activity
